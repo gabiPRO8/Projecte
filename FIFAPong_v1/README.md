@@ -23,8 +23,5 @@ Durant aquesta setmana implementarem els següents canvis i millores:
     Millores en els gràfics i la interfície.
     Ajustos de jugabilitat per assegurar que el joc sigui equilibrat i divertit.
 
-Contribucions
-
-Si vols contribuir al projecte, pots descarregar el codi, fer canvis i enviar els teus pull requests. A mesura que avancem, actualitzarem aquest README amb més informació sobre el progrés i les funcionalitats implementades.
 
 Gràcies per seguir el nostre projecte! 🚀⚽
